@@ -1,4 +1,4 @@
->Make each program do one thing well. 
-              - Mike Gancarz: The UNIX Philosophy
+> Make each program do one thing well. 
+-              - Mike Gancarz: The UNIX Philosophy
               
-[//]: <> - [ ] this is an incomplete item
+[comment]: <>  [ ] this is an incomplete item
